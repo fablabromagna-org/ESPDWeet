@@ -1,5 +1,5 @@
 //
-// Esempio di utilizzo di deweet come storage di dati con ESP8266
+// Esempio di utilizzo di DWeet come storage di dati con ESP8266
 //
 // maurizio.conti@fablabromagna.org
 // 19 Aprile 2019
